@@ -5,7 +5,7 @@ Feature: Game API
 
 
   Background:
-    * url 'http://localhost'
+    * url 'http://18.118.133.151/'
 
 
 
